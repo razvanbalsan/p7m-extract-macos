@@ -7,13 +7,13 @@ A lightweight command-line tool for macOS to extract content from PKCS#7 (.p7m) 
 
 ## Features
 
-- ✅ **Simple extraction** - Extract .p7m files with a single command
-- ✅ **Auto-detection** - Automatically detects DER and PEM formats
-- ✅ **Smart naming** - Automatically generates output filenames by removing .p7m extension
-- ✅ **File inspection** - View information about .p7m files before extracting
-- ✅ **Zero dependencies** - Uses built-in macOS OpenSSL (no installation required)
-- ✅ **Color-coded output** - Easy-to-read terminal output with color coding
-- ✅ **macOS native** - Optimized for macOS including M-series chips
+- **Simple extraction** - Extract .p7m files with a single command
+- **Auto-detection** - Automatically detects DER and PEM formats
+- **Smart naming** - Automatically generates output filenames by removing .p7m extension
+- **File inspection** - View information about .p7m files before extracting
+- **Zero dependencies** - Uses built-in macOS OpenSSL (no installation required)
+- **Color-coded output** - Easy-to-read terminal output with color coding
+- **macOS native** - Optimized for macOS including M-series chips
 
 ## Installation
 

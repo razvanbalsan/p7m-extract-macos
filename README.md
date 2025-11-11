@@ -21,7 +21,7 @@ A lightweight command-line tool for macOS to extract content from PKCS#7 (.p7m) 
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/p7m-extract/main/p7m-extract
+curl -O https://raw.githubusercontent.com/razvanbalsan/p7m-extract/main/p7m-extract
 
 # Make it executable
 chmod +x p7m-extract
